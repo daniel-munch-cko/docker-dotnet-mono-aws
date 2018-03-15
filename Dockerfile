@@ -1,4 +1,4 @@
-FROM microsoft/dotnet:2.0.5-sdk-2.1.4-jessie
+FROM microsoft/dotnet:2.0.6-sdk-2.1.101-jessie
 
 # Install mono latest
 # http://www.mono-project.com/download/#download-lin-debian
