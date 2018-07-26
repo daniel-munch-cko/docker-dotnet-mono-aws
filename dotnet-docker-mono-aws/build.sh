@@ -1,3 +1,3 @@
-VERSION=2.1.300-rc1-mono-5.12.0.226-aws-1.15.26
+VERSION=2.1.302-mono-5.12.0.301-aws-1.15.65
 docker build -t danielmunchcko/dotnet-mono-aws:$VERSION .
 docker push danielmunchcko/dotnet-mono-aws:$VERSION

@@ -1,4 +1,4 @@
-FROM microsoft/dotnet:2.1.300-rc1-sdk-stretch
+FROM danielmunchcko/dotnet:2.1.302
 
 # Install mono latest
 # http://www.mono-project.com/download/#download-lin-debian
