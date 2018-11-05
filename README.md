@@ -52,5 +52,5 @@ Additionally there are those images available:
 - danielmunchcko/dotnet:2.1.302: Based straight on microsoft/dotnet:2.1.302-sdk-stretch, with additional dependencies for GitVersion
 - danielmunchcko/dotnet:2.1.402: Based straight on microsoft/dotnet:2.1.402-sdk-stretch, with additional dependencies for GitVersion and docker cli
 - danielmunchcko/dotnet:2.1.302-node-10.7.0: Same as above, with node 10.7.0
-
+- danielmunchcko/dotnet:2.1.402-aws-1.16.47: Same as above, with aws cli tools 1.16.47
 Use Git history to find their corresponding `Dockerfile` source.
