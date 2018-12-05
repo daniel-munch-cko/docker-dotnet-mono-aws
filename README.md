@@ -49,6 +49,7 @@ The following versions are currently available on Docker hub.
 - danielmunchcko/dotnet-mono-aws:2.1.302-mono-5.12.0.301-aws-1.15.65
 
 Additionally there are those images available:
+- danielmunchcko/dotnet:2.2.100: Based straight on microsoft/dotnet:2.2.100-sdk-stretch, with additional dependencies for GitVersion and docker cli
 - danielmunchcko/dotnet:2.1.302: Based straight on microsoft/dotnet:2.1.302-sdk-stretch, with additional dependencies for GitVersion
 - danielmunchcko/dotnet:2.1.402: Based straight on microsoft/dotnet:2.1.402-sdk-stretch, with additional dependencies for GitVersion and docker cli
 - danielmunchcko/dotnet:2.1.302-node-10.7.0: Same as above, with node 10.7.0
