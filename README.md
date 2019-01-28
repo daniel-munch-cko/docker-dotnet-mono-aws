@@ -50,6 +50,7 @@ The following versions are currently available on Docker hub.
 
 Additionally there are those images available:
 - danielmunchcko/dotnet:2.2.100: Based straight on microsoft/dotnet:2.2.100-sdk-stretch, with additional dependencies for GitVersion and docker cli
+- danielmunchcko/dotnet:2.2.100-node-10.15.0: Same as above, with node 10.15.0
 - danielmunchcko/dotnet:2.1.302: Based straight on microsoft/dotnet:2.1.302-sdk-stretch, with additional dependencies for GitVersion
 - danielmunchcko/dotnet:2.1.402: Based straight on microsoft/dotnet:2.1.402-sdk-stretch, with additional dependencies for GitVersion and docker cli
 - danielmunchcko/dotnet:2.1.302-node-10.7.0: Same as above, with node 10.7.0
